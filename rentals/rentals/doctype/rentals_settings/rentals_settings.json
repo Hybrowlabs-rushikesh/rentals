@@ -1,0 +1,40 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-08-23 18:53:28.994769",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "standard_rate"
+ ],
+ "fields": [
+  {
+   "fieldname": "standard_rate",
+   "fieldtype": "Float",
+   "label": "Standard Rate"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2024-08-23 18:54:39.292550",
+ "modified_by": "Administrator",
+ "module": "rentals",
+ "name": "Rentals Settings",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
